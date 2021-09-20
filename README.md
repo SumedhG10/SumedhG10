@@ -39,4 +39,4 @@ Steadily growing into AI product management
 
 ## Happy Mapping
 
-    <img align="centre" style="width:16rem; height:auto" src="https://github.com/SumedhG10/SumedhG10/blob/main/geo.gif"/>
+<img align="centre" style="width:16rem; height:auto" src="https://github.com/SumedhG10/SumedhG10/blob/main/geo.gif"/>
