@@ -20,7 +20,7 @@ Steadily growing into AI product management
   <a href="#"><img src="https://img.shields.io/badge/Python-Expert-_.svg?logo=python"></a>
   <a href="#"><img src="https://img.shields.io/badge/GeoAI-_.svg?logo=GIS"></a>
   <a href="#"><img src="https://img.shields.io/badge/Spatial-Analytics-_.svg"></a>
-  <a href="#"><img src="https://github.com/SumedhG10/SumedhG10/blob/main/geolocated-place-svgrepo-com.svg"></a>
+  <a href="#"><style="width:1rem; height:auto" img src="https://github.com/SumedhG10/SumedhG10/blob/main/geolocated-place-svgrepo-com.svg"?style=social&logo=geo" alt="geo"></a>
 </p>
 
 <hr>
