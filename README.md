@@ -1,6 +1,6 @@
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-# Hi I am Sumedh 
+# Hi I am Sumedh ,
 
 ## About Me : 
 🌱 3.5+ years professional experience as Geospatial Data Scientist. Specialised in geospatial modelling and backend development and build management.
@@ -24,13 +24,16 @@ Steadily growing into AI product management
 </p>
 
 <hr>
-## Patents Grants :
+## Patent Grants :
+
 👨‍💻 [Computer-based method and system for determining groundwater potential zones](https://patents.google.com/patent/US11010950B1/en?assignee=quantela&oq=quantela)
 
-## Patents Issued
+## Patent Issued :
 
 👨‍💻 [Computer-based method and system for urban planning](https://patents.google.com/patent/US20210209136A1/en?assignee=quantela&oq=quantela)
 
-👨‍💻 
+👨‍💻 [Computer-based method and system for geo-spatial analysis](https://patents.google.com/patent/US20210209803A1/en?assignee=quantela&oq=quantela)
+
+👨‍💻 [Computer-based method and system for predicting and generating land use land cover (lulc) classification](https://patents.google.com/patent/US20210209803A1/en?assignee=quantela&oq=quantela)
 
 
