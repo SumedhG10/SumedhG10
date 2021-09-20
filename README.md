@@ -37,4 +37,6 @@ Steadily growing into AI product management
 
 👨‍💻 [Computer-based method and system for predicting and generating land use land cover (lulc) classification](https://patents.google.com/patent/US20210209803A1/en?assignee=quantela&oq=quantela)
 
+## Happy Mapping
 
+    <img align="centre" style="width:16rem; height:auto" src="https://github.com/SumedhG10/SumedhG10/blob/main/geo.gif"/>
