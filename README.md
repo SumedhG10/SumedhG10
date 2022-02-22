@@ -3,7 +3,7 @@
 # Hi I am Sumedh ,
 
 ## About Me : 
-🌱 3.5+ years professional experience as Geospatial Data Scientist. Specialised in geospatial modelling and backend development and build management.
+🌱 Seasoned professional Geospatial Data Scientist. Specialised in geospatial modelling and backend development and build management.
 
 🌱 I have worked on various smart city initiatives including sectors such as environmental resource management , location intelligence and disaster management projects.
 Worked for fortue 100 companies including projects for [Microsoft AI for Earth](https://gramener.com/ai-for-resilient-cities-evergreen)
