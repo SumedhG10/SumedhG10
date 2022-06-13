@@ -12,6 +12,8 @@ Worked for fortue 100 companies including projects for [Microsoft AI for Earth](
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile product development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
 Steadily growing into AI product management.
+<img align="right" style="width:auto; height:auto" src="https://github.com/SumedhG10/SumedhG10/blob/main/geek.gif"/>
+
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
