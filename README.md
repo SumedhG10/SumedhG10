@@ -1,4 +1,3 @@
-<img align="right" style="width:auto; height:auto" src="https://github.com/SumedhG10/SumedhG10/blob/main/geek.gif"/>
 
 # Hi I am Sumedh ,
 
