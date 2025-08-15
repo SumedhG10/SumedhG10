@@ -4,14 +4,16 @@
 ## About Me : 
 Welcome! I am Sumedh Ghatage, a strategic and delivery-focused Data Science & AI Leader with over 8 years of experience driving high-impact enterprise-scale AI, ML, Advanced Analytics, and Data Strategy for global clients.
 
-🌟 Summary
+🌟 Summary:
+
 Proven expertise in AI consulting, cross-functional delivery, analytics strategy, and client account growth.
 
 Passionate about designing and delivering ML/DL & GenAI solutions, leading data transformations, and aligning analytics to real business value.
 
 Track record in driving AI adoption across sectors: transportation, healthcare, oil & gas, smart cities, and more.
 
-🚀 Skills & Strengths
+🚀 Skills & Strengths:
+
 Cross-Functional Leadership & Stakeholder Management
 
 End-to-End AI Lifecycle Execution
@@ -26,7 +28,8 @@ Program Management
 
 Generative AI, Responsible AI & AI Governance
 
-🥇 Achievements
+🥇 Achievements:
+
 Holder of Two International Patents for AI Projects
 
 Winner, Edison Awards 2021 (Geospatial AI for life-saving health applications)
@@ -36,10 +39,12 @@ Winner, IUDX Datathon for Pune Smart City
 Speaker at 10+ academic AI forums
 
 📣 Contact
+
 Available for AI consulting, leadership mentoring, and enterprise transformation engagements.
 
 Connect with me:
 sumedhghatage10@gmail.com
+
 <img align="right" style="width:auto; height:auto" src="https://github.com/SumedhG10/SumedhG10/blob/main/geek.gif"/>
 
 
