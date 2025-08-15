@@ -2,16 +2,44 @@
 # Hi I am Sumedh ,
 
 ## About Me : 
-🌱 Seasoned professional Geospatial Data Scientist. Specialised in geospatial modelling and backend development and build management.
+Welcome! I am Sumedh Ghatage, a strategic and delivery-focused Data Science & AI Leader with over 8 years of experience driving high-impact enterprise-scale AI, ML, Advanced Analytics, and Data Strategy for global clients.
 
-🌱 I have worked on various smart city initiatives including sectors such as environmental resource management , location intelligence and disaster management projects.
-Worked for fortue 100 companies including projects for [Microsoft AI for Earth](https://gramener.com/ai-for-resilient-cities-evergreen)
+🌟 Summary
+Proven expertise in AI consulting, cross-functional delivery, analytics strategy, and client account growth.
 
-🌱 Founded a community called “Geospatial Awareness Hub” which helps enabling Education, Employment and Business to foster the growth and awareness of Geospatial Industry.
+Passionate about designing and delivering ML/DL & GenAI solutions, leading data transformations, and aligning analytics to real business value.
 
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile product development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+Track record in driving AI adoption across sectors: transportation, healthcare, oil & gas, smart cities, and more.
 
-Steadily growing into AI product management.
+🚀 Skills & Strengths
+Cross-Functional Leadership & Stakeholder Management
+
+End-to-End AI Lifecycle Execution
+
+Advanced Analytics & Statistical Modeling
+
+AI Strategy & Data Science Consulting
+
+Agile Project Delivery & Governance
+
+Program Management
+
+Generative AI, Responsible AI & AI Governance
+
+🥇 Achievements
+Holder of Two International Patents for AI Projects
+
+Winner, Edison Awards 2021 (Geospatial AI for life-saving health applications)
+
+Winner, IUDX Datathon for Pune Smart City
+
+Speaker at 10+ academic AI forums
+
+📣 Contact
+Available for AI consulting, leadership mentoring, and enterprise transformation engagements.
+
+Connect with me:
+sumedhghatage10@gmail.com
 <img align="right" style="width:auto; height:auto" src="https://github.com/SumedhG10/SumedhG10/blob/main/geek.gif"/>
 
 
@@ -37,7 +65,3 @@ Steadily growing into AI product management.
 👨‍💻 [Computer-based method and system for geo-spatial analysis](https://patents.google.com/patent/US20210209803A1/en?assignee=quantela&oq=quantela)
 
 👨‍💻 [Computer-based method and system for predicting and generating land use land cover (lulc) classification](https://patents.google.com/patent/US20210209803A1/en?assignee=quantela&oq=quantela)
-
-## Happy Mapping
-
-<img align="centre" style="width:16rem; height:auto" src="https://github.com/SumedhG10/SumedhG10/blob/main/geo.gif"/>
